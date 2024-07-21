@@ -1,4 +1,6 @@
-# webrtc-task
+# Zoom-Like-App-using-WebRTC
+
+This is an app that you can use to make video calls, audio calls, share your screen with live chat using Socket.io and WebRTC
 
 1- inside server directory, peersjs directory and client directory, write command:
 yarn install 
